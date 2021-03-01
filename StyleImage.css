@@ -1,0 +1,46 @@
+.Image1
+{
+	
+	width:1350px;	
+	height:450px;
+	
+	background: url(Image/ImageKad/1.jpg) no-repeat scroll 180px 3px;
+
+
+	
+}
+.Image2
+{
+	
+	width:1500px;	
+	height:675px;
+	background-size:100%;
+	background: url(Image/ImageKad/2.jpg) no-repeat scroll 35% 25%;
+
+
+	
+}
+
+.Image3
+{
+	
+	width:1350px;	
+	height:450px;
+	
+	background: url(Image/ImageKad/3.jpg) no-repeat scroll 250px 100px;
+	
+	
+	
+}
+
+.Image4
+{
+	
+	width:600px;	
+	height:600px;
+	
+	background: url(Image/Back.png) no-repeat scroll 10px 450px;
+	
+	
+	
+}

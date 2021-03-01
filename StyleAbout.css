@@ -1,0 +1,46 @@
+p.About1
+{
+	
+	font-weight:bold;
+	font-size:30px;
+	text-indent:10px;
+	text-align:center;
+	border:3px solid black;
+	
+	
+}
+span
+{
+	color:red;
+	font-weight:bold;
+	font-size:35px;
+}
+p.Head
+{
+	font-size:50px;
+	color:green;
+	text-align:center;
+	border:2px solid black;
+	padding:5px;
+	
+	
+	
+}
+body
+{
+	
+	background-color:#50A4F3;
+}
+div.Back
+{
+	
+	width:350px;
+	height:250px;
+	background-repeat:no-repeat;
+	background-image:url(Image/Back.png);
+	background-attachment:scroll;
+	background-size:100%;
+	background-position:10% 70%;
+	
+	
+}

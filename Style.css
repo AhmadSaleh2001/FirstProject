@@ -1,0 +1,51 @@
+table
+{
+
+	
+	border:2px solid black;
+
+	border-collapse:collapse;
+	border-spacing:100px;	
+	align:center;
+}
+td
+{
+	font-size:30px;
+	text-align:center;
+	font-weight:bold;
+	border:3px solid black;
+	padding:10px;
+	color:black;
+	
+	
+}
+body
+{
+	
+	background-color:#50A4F3;
+	
+}
+
+div.imgAbout
+{
+	width:400px;
+	height:180px;
+	background: url(Image/About.png) no-repeat scroll 20px 50px;
+
+}
+div.ImgKad
+{
+	width:400px;
+	height:180px;
+
+	background: url(Image/ImageKad.png) no-repeat scroll 20px 50px;
+
+}
+div.StudentPTUK
+{
+	width:400px;
+	height:180px;
+	background:url(Image/St.png) no-repeat scroll 20px 65px;
+	
+}
+
